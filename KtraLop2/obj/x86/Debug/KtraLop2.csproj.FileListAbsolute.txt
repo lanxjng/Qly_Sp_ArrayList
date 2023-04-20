@@ -1,0 +1,7 @@
+E:\hoc Csharp\KtraLop2\KtraLop2\bin\Debug\KtraLop2.exe
+E:\hoc Csharp\KtraLop2\KtraLop2\bin\Debug\KtraLop2.pdb
+E:\hoc Csharp\KtraLop2\KtraLop2\obj\x86\Debug\KtraLop2.Form1.resources
+E:\hoc Csharp\KtraLop2\KtraLop2\obj\x86\Debug\KtraLop2.Properties.Resources.resources
+E:\hoc Csharp\KtraLop2\KtraLop2\obj\x86\Debug\KtraLop2.csproj.GenerateResource.Cache
+E:\hoc Csharp\KtraLop2\KtraLop2\obj\x86\Debug\KtraLop2.exe
+E:\hoc Csharp\KtraLop2\KtraLop2\obj\x86\Debug\KtraLop2.pdb
